@@ -1,0 +1,18 @@
+{
+  "name": "kangar",
+  "version": "1.0.0",
+  "description": "Script to help build react-native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "download-git-repo": "1.0.1",
+    "cli-spinner": "0.2.7"
+  },
+  "author": "Hazmi Irfan Bin Zainal Ariffin",
+  "license": "ISC",
+  "bin": {
+    "kangar": "./cli.js"
+  }
+}
