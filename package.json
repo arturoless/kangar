@@ -1,6 +1,6 @@
 {
   "name": "kangar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Script to help build react-native app",
   "main": "index.js",
   "scripts": {
